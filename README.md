@@ -13,3 +13,10 @@ In react for instance, it provides support for the JSX syntax
 
 ### Developer Tools
 The React Devtools extension for [Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/) lets you inspect a React component tree with your browser’s developer tools.
+
+### Conventions
+In React, it’s conventional to use on[Event] names for props which represent events and handle[Event] for the methods which handle the events.
+
+
+## Further reading
+- You can learn more about shouldComponentUpdate() and how you can build pure components by reading [Optimizing Performance](https://reactjs.org/docs/optimizing-performance.html#examples)
