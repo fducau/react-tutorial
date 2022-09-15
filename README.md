@@ -21,7 +21,7 @@ In React, it’s conventional to use on[Event] names for props which represent e
 
 ## Further reading
 - You can learn more about shouldComponentUpdate() and how you can build pure components by reading [Optimizing Performance](https://reactjs.org/docs/optimizing-performance.html#examples)
-
+- [Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Overview)
 
 ### Practice
 If you have extra time or want to practice your new React skills, here are some ideas for improvements that you could make to the tic-tac-toe game which are listed in order of increasing difficulty:
